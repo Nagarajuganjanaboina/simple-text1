@@ -2,9 +2,9 @@
 ============
 
 -------------------     ----------------------------
-Email                   nagarajuganjanaboina@gmail.com
-Mobile number          8886459***
-MyCountry              India
+- Email                   nagarajuganjanaboina@gmail.com
+- Mobile number          8886459***
+- MyCountry              India
 -------------------     ----------------------------
 
 Education
