@@ -36,6 +36,7 @@ certification
 
 personal info
 -----------------
-Father Name : ***********
-DOB         : **********
-Gender      : male
+- Father Name : ***********
+- DOB         : **********
+- Gender      : male
+- address     : Guntur
